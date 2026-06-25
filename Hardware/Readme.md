@@ -1,9 +1,6 @@
 <div align="center">
 
 # Production Files
-
-### [Schematics](#schematics) • [Gerbers](#gerbers) • [BOM](#bill-of-materials-bom) • [Pick & Place](#component-placement-list-cpl)
-
 </div>
 
 ---
