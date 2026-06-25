@@ -1,14 +1,19 @@
 <div align="center">
 
 # Production Files
+### RP2040 BOB Devboard
 </div>
 
 ---
 
-This folder contains all the production files requred for the rp2040 BOB devboard. 
+This folder contains all the necessary production files required to manufacture the **RP2040 BOB devboard**. 
 
 ---
 
-If you want to use it i suggest all you do is drag and drop the whole folder into JLCPCB because they automatically comipile what you need.
+## 🛠️ How to Use (Manufacturing)
 
-THe file named BOM is the BOM file its in a csv format already. 
+If you want to order this board, simply **drag and drop the entire folder into JLCPCB**. Their system will automatically detect and compile all the necessary files you need for production.
+
+## 📄 Key Files
+
+* **BOM (Bill of Materials):** Provided in standard `.csv` format, ready for component sourcing and assembly.
