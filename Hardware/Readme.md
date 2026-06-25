@@ -12,16 +12,6 @@ This folder contains all the production files requred for the rp2040 BOB devboar
 
 ---
 
-## Deliverables
+If you want to use it i suggest all you do is drag and drop the whole folder into JLCPCB because they automatically comipile what you need.
 
-### Schematics
-* **Description:** Complete electrical schematics detailing the hardware design.
-
-### Gerbers
-* **Description:** PCB fabrication files including copper, solder mask, and silkscreen layers.
-
-### Bill of Materials (BOM)
-* **Description:** The full list of components, part numbers, and quantities required for ordering.
-
-### Component Placement List (CPL)
-* **Description:** Pick and place files containing coordinates and rotations for automated SMT assembly.
+THe file named BOM is the BOM file its in a csv format already. 
