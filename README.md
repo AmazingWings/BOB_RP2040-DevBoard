@@ -47,7 +47,8 @@ Hi! This is my first SMT board! It is a custom RP2040 development board named BO
 </p>
 
 ### BOM
-<p <img width="1368" height="782" alt="Screenshot 2026-07-22 at 1 04 08 PM" src="https://github.com/user-attachments/assets/e8dc6c6d-f74d-4867-8b4b-748b7d0ca01b" />
+<p <p align="center">
+  <img width="1368" height="782" alt="Screenshot 2026-07-22 at 1 04 08 PM" src="https://github.com/user-attachments/assets/e8dc6c6d-f74d-4867-8b4b-748b7d0ca01b" />
 </p>
 
 ### Final Cost Estimate
