@@ -46,6 +46,10 @@ Hi! This is my first SMT board! It is a custom RP2040 development board named BO
   <img width="801" alt="JLC PCB 3D Design" src="https://github.com/user-attachments/assets/6bb221f0-d28d-40f2-9800-460c9e34ccb8" />
 </p>
 
+### BOM
+<p <img width="1368" height="782" alt="Screenshot 2026-07-22 at 1 04 08 PM" src="https://github.com/user-attachments/assets/e8dc6c6d-f74d-4867-8b4b-748b7d0ca01b" />
+</p>
+
 ### Final Cost Estimate
 <p align="center">
   <img width="413" alt="Final Cost Estimate" src="https://github.com/user-attachments/assets/bf1ff943-90cc-40e6-ab25-64b4c6a19149" />
